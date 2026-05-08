@@ -94,7 +94,7 @@ LangChain supports several memory types: ConversationBufferMemory stores the ful
 LangChain retrievers fetch relevant documents from a data source given a query. They provide a standardized interface supporting vector stores, BM25, multi-query retrieval, contextual compression, and ensemble methods. Retrievers can be easily swapped or combined without changing downstream chain logic.
 
 LangSmith and Observability
-============================
+============================ 
 
 LangSmith is a platform for debugging, testing, evaluating, and monitoring LLM applications through automatic tracing. It provides visibility into every step of a chain, showing inputs, outputs, latency, and errors. LangSmith supports Python and JavaScript/TypeScript.
 
